@@ -104,6 +104,7 @@ void loop()
 9. De igual manera buscar la pantalla LCD 16x2(I2C) y agregar
    
 10. Colocar el sensor y la pantalla sobre el esquema de simulación y conectar como indica la figura de abajo
+    
 ![](<img width="677" height="492" alt="image" src="https://github.com/user-attachments/assets/a009c621-b046-4059-84e8-fea7b40dcb05" />)
 
 
