@@ -93,10 +93,11 @@ void loop()
 4. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "HCSR04 ultrasonic sensor" y agregarla
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/libreria%20sensor%20ultrasonico.png?raw=true)
 
-5. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", 
+5. Ir al esquema de simulacón, dar clic al icono "+ (add new part)"
 
+![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/Add%20new%20part.png?raw=true)
 
-6. Buscar el sensor HCSR04 y agregar
+7. Buscar el sensor HCSR04 y agregar
 
 
 
