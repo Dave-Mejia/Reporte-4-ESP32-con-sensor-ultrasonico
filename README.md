@@ -2,19 +2,22 @@
 
 Programación de un ESP32 con un sensor ultrasónico HC-SR04 y una pantalla LCD 16x2(I2C)
 ## Introducción
-## Descripción
+### Descripción
 Utilizaremos l plataforma WOKWI para simular la adquisición de datos de distancia mediante un sensor ultrasónico HC-SR04 y la prorgramación del mismo en un microcontrolador ESP32, los datos se mostrarán en una pantalla LCD
 
-## Material Necesario
+### Material Necesario
 Para realizar esta practica necesitas lo siguiente
 
-Plataforma WOKWI
-Tarjeta ESP 32
-Sensor ultrasónico HC-SR04
-Pantalla LCD 16x2(I2C)
+a. Plataforma WOKWI
+
+b. Tarjeta ESP 32
+
+c. Sensor ultrasónico HC-SR04
+
+d. Pantalla LCD 16x2(I2C)
 
 ## Instrucciones
-### PREVIO
+### Previo
 1. Abrir la plataforma WOKWI.
 
 ### Preparación
@@ -90,15 +93,21 @@ void loop()
 4. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "HCSR04 ultrasonic sensor" y agregarla
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/libreria%20sensor%20ultrasonico.png?raw=true)
 
-5. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar el sensor HCSR04 y agregar
-6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar la pantalla LCD 16x2(I2C)
+5. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", 
+
+
+6. Buscar el sensor HCSR04 y agregar
+
+
+
+8. De igual manera buscar la pantalla LCD 16x2(I2C) y agregar
    
-7. Colocar el sensor y la pantalla sobre el esquema de simulación y conectar como indica la figura de abajo
+9. Colocar el sensor y la pantalla sobre el esquema de simulación y conectar como indica la figura de abajo
 ![](<img width="677" height="492" alt="image" src="https://github.com/user-attachments/assets/a009c621-b046-4059-84e8-fea7b40dcb05" />)
 
 
 
-### Operación
+## Operación
 9. Iniciar simulador dando clic en el icono "play"
 10. Visualizar los datos en el monitor serial.
 
