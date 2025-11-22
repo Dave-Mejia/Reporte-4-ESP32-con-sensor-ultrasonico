@@ -105,7 +105,7 @@ void loop()
    
 10. Colocar el sensor y la pantalla sobre el esquema de simulación y conectar como indica la figura de abajo
     
-![](<img width="677" height="492" alt="image" src="https://github.com/user-attachments/assets/a009c621-b046-4059-84e8-fea7b40dcb05" />)
+![]<img width="677" height="492" alt="image" src="https://github.com/user-attachments/assets/695d1f5e-4a1a-44d8-b554-aedfdf3528dd" />)
 
 
 
