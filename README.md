@@ -88,7 +88,7 @@ void loop()
 
 
 4. Ir a la pestaña "Library manager" haer clic sobre el icon "+", buscar la libreria "HCSR04 ultrasonic sensor" y agregarla
-![]
+![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/libreria%20sensor%20ultrasonico.png?raw=true)
 
 5. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar el sensor HCSR04 y agregar
 6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)", buscar la pantalla LCD 16x2(I2C)
