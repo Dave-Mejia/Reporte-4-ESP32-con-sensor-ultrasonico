@@ -97,26 +97,26 @@ void loop()
 
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/Libreria%20Pantalla%20LCD%20Liquid%20cristal.png?raw=true)
 
-7. Ir al esquema de simulacón, dar clic al icono "+ (add new part)"
+6. Ir al esquema de simulacón, dar clic al icono "+ (add new part)"
 
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/Add%20new%20part.png?raw=true)
 
-6. Buscar el sensor HCSR04 y agregar
+7. Buscar el sensor HCSR04 y agregar
 
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/Add%20new%20part%203.png?raw=true)
 
-7. De igual manera buscar la pantalla LCD 16x2(I2C) y agregar
+8. De igual manera buscar la pantalla LCD 16x2(I2C) y agregar
    
-8. Colocar el sensor y la pantalla sobre el esquema de simulación y conectar como indica la figura de abajo
+9. Colocar el sensor y la pantalla sobre el esquema de simulación y conectar como indica la figura de abajo
 
 ![]<img width="677" height="492" alt="image" src="https://github.com/user-attachments/assets/695d1f5e-4a1a-44d8-b554-aedfdf3528dd" />)
 
 ## Operación
-9. Iniciar simulador dando clic en el icono "play"
+10. Iniciar simulador dando clic en el icono "play"
 
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/play.png?raw=true)
 
-10. Visualizar los datos en el monitor serial.
+11. Visualizar los datos en el monitor serial.
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
