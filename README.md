@@ -75,9 +75,9 @@ void loop()
   delay(1000);
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("Distancia: ");
+  lcd.print("Distancia:");
   lcd.print(d);
-  lcd.setCursor(0, 1);
+  lcd.setCursor(14, 0);
   lcd.print("cm");
  
   delay(1000);
