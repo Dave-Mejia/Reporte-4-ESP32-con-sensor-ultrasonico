@@ -5,7 +5,7 @@ Programación de un ESP32 con un sensor ultrasónico HC-SR04 y una pantalla LCD 
 ### Descripción
 Utilizaremos l plataforma WOKWI para simular la adquisición de datos de distancia mediante un sensor ultrasónico HC-SR04 y la prorgramación del mismo en un microcontrolador ESP32, los datos se mostrarán en una pantalla LCD
 
-### Material Necesario
+### Material Necesario 
 Para realizar esta practica necesitas lo siguiente
 
 a. Plataforma WOKWI
