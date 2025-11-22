@@ -1,4 +1,4 @@
-# Reporte-4-ESP32-con-sensor-ultrasonico
+# Reporte 4 ESP32 con sensor ultrasonico
 
 Programación de un ESP32 con un sensor ultrasónico HC-SR04 y una pantalla LCD 16x2(I2C)
 ## Introducción
@@ -21,8 +21,8 @@ d. Pantalla LCD 16x2(I2C)
 1. Abrir la plataforma WOKWI.
 
 ### Preparación
-3. Ir a la pestaña de sketch.ino y borrar el codigo e programación predeterminado
-4. Abrir la terminal de programación y colocar la siguente programación:
+2. Ir a la pestaña de sketch.ino y borrar el codigo e programación predeterminado
+3. Abrir la terminal de programación y colocar la siguente programación:
 ```
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
@@ -97,13 +97,13 @@ void loop()
 
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/Add%20new%20part.png?raw=true)
 
-7. Buscar el sensor HCSR04 y agregar
+6. Buscar el sensor HCSR04 y agregar
 
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/Add%20new%20part%203.png?raw=true)
 
-9. De igual manera buscar la pantalla LCD 16x2(I2C) y agregar
+7. De igual manera buscar la pantalla LCD 16x2(I2C) y agregar
    
-10. Colocar el sensor y la pantalla sobre el esquema de simulación y conectar como indica la figura de abajo
+8. Colocar el sensor y la pantalla sobre el esquema de simulación y conectar como indica la figura de abajo
 
 ![]<img width="677" height="492" alt="image" src="https://github.com/user-attachments/assets/695d1f5e-4a1a-44d8-b554-aedfdf3528dd" />)
 
@@ -112,7 +112,7 @@ void loop()
 
 ![](https://github.com/Dave-Mejia/Reporte-4-ESP32-con-sensor-ultrasonico/blob/main/play.png?raw=true)
 
-11. Visualizar los datos en el monitor serial.
+10. Visualizar los datos en el monitor serial.
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
